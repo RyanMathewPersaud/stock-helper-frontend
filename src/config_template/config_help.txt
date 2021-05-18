@@ -1,0 +1,2 @@
+Replace the value for key in the iex object with your own iex key.
+The base url is the common url fragments that will be called on every API call.
